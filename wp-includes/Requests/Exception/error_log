@@ -1,0 +1,16 @@
+[04-Oct-2022 09:15:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception' not found in /home/justcodenow/public_html/wp-includes/Requests/Exception/HTTP.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[04-Oct-2022 09:16:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception' not found in /home/justcodenow/public_html/wp-includes/Requests/Exception/Transport.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[04-Oct-2022 12:02:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception' not found in /home/justcodenow/public_html/wp-includes/Requests/Exception/HTTP.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[04-Oct-2022 12:19:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception' not found in /home/justcodenow/public_html/wp-includes/Requests/Exception/Transport.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/Requests/Exception/Transport.php on line 3

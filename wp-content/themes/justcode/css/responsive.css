@@ -1,0 +1,115 @@
+@media screen and (min-width:800px) {
+  .checkout-wrap {margin:20px auto 80px;}ul.checkout-bar {height: 2px;margin: 0 auto;padding: 0;position: absolute;width: 100%;} ul.checkout-bar:before {content: "";background-color:#dedede;width: calc(100% - 240px);position: absolute;height: 2px;left: 102px;}
+  ul.checkout-bar li {display: inline-block;margin: 22px 0 0;padding: 0;text-align: center;width: 19%;} ul.checkout-bar li:before {height: 30px;left: 50%;line-height: 30px;position: absolute;top: -38px;width: 30px;z-index: 99;-webkit-transform: translateX(-50%);transform: translateX(-50%);}
+  ul.checkout-bar li.active:after {content: "";background-color:#41b372; position: absolute;height: 2px;left:0; top:-22px; width:100%; }ul.checkout-bar li.active:last-child:after { width:50%; }
+  ul.checkout-bar li.visited {background: none;}
+}
+@media screen and (min-width:991px) {
+  .footer1-wrapper .links.footer-about { padding-left:0; }.footer1-wrapper .links.footer-social { padding-right:0; }
+}
+@media screen and (max-width:1600px) {
+  .certified { padding:70px 90px 0; }.certified h2 { font-size:68px; }.certified span { font-size:28px; }.certified p { line-height:1.5; }
+}
+@media screen and (max-width:1450px){
+  .arpatech-logo images{max-width:120px}.intro-text h1{font-size:42px}.certified{padding:30px 50px 10px}.certified h2{font-size:55px}.certified span{font-size:24px}.certified p{font-size:15px}.certified img{max-width:80px}
+.Team-profile .Team-section .box { width: 94%; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }.Team-profile .Team-section .card { width: 250px; height: 300px; }
+}
+@media screen and (max-width:1300px) {
+ .certified h2{font-size:48px}.certified span{font-size:22px}.certified p{font-size:14px}.certified img{max-width:60px}
+}
+@media screen and (max-width:1190px) {
+.estimation-details-section .details .promocode-block .input-box .input-text{max-width:calc(100% - 110px)}.estimation-details-section .details .promocode-block .input-box .btn{max-width:100px}
+button.get-in-touch-wrap, a.get-in-touch-wrap { top:80px; right:80px; }
+.footer1-wrapper .links{padding:0 10px}.Testimonial_section .testimonial_video{width:100%;height:initial!important;line-height:0}.Testimonial_section .testimonial_content{width:100%;height:100vh!important;max-height:400px!important}.Team-profile .Team-section .card:nth-child(n+4){margin-top:30px}.Team-profile .Team-section .card .details h2{font-size:19px}.second-sec-main{padding:70px 0}.Our_team .section-title,.Team-profile h2,.main-portfolio h2,.specialities h2,section.bisiness-tech h3{font-size:35px}.second-sec-main .box{padding:30px 5px}.second-sec-main .box a{font-size:15px;min-height:39px}.specialities p{font-size:16px;padding:0 0 40px}.discription h3{font-size:17px;line-height:22px}p.lets-make.text-center{letter-spacing:1px}.process-me h3{font-size:30px}
+}
+@media screen and (max-width:990px) { 
+    .estimation-details-section h1{font-size:26px}.estimation-details-section .details label{font-size:18px}.estimation-details-section .details .price{margin-top:5px}.estimation-details-section .details .promocode-block label{width:100%}.estimation-details-section .details .promocode-block .input-box{width:100%}.estimation-details-section .details .promocode-block .input-box .input-text{max-width:100%;width:calc(100% - 110px)}.estimation-details-section .details .promocode-block .input-box .btn{max-width:100%;width:100px}ul.checkout-bar:before{width:calc(100% - 160px)!important;left:80px!important}.header .intro-text{padding-top:300px;padding-bottom:0;padding-top:0!important;top:50%;position:absolute;-webkit-transform:translateY(-50%);transform:translateY(-50%);padding-left:15px;padding-right:15px}.founder-box{margin-bottom:10px}
+   .services-short-section img{left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.magento-services-main h2{font-size:50px}.banner-text-web-2 h3{font-size:55px;margin-top:50px}.services-short-section h2{font-size:23px}ul.left-side li h2,ul.right-side li h2{font-size:20px;color:#fff}.meetup-bar{background:#091d36}.meetup-bar{background-size:100%!important;background-position:0 0!important}
+   #exTab1 .tab-content .row .col-border input[type=checkbox]:checked+label:before,#exTab1 .tab-content .row .col-border input[type=radio]:checked+label:before{right:-20px}a.get-in-touch-wrap,button.get-in-touch-wrap{transform:rotate(-90deg);-webkit-transform:rotate(-90deg)}.footer1-wrapper .links.footer-about,.footer1-wrapper .links.footer-service{width:50%}.footer1-wrapper .links{width:50%;margin-bottom:30px}.woocommerce .container{width:100%;padding:0 40px}.Team-profile .Team-section .card:nth-child(n+3){margin-top:30px}.Team-profile h2{font-size:35px;margin:0 auto 40px}.main-portfolio{padding:70px 0}.Our_team .section-title,.Team-profile h2,.main-portfolio h2,.specialities h2,section.bisiness-tech h3{font-size:30px}section.bisiness-tech h3 span{font-size:25px}.bisiness-tech .our-tech-advantages .our-tech-col:nth-child(odd) .tech-logo{padding-top:100px;margin-top:15px}.bisiness-tech .our-tech-advantages .our-tech-col:nth-child(odd) .tech-logo:before{top:15px}.bisiness-tech .our-tech-advantages .our-tech-col:nth-child(odd) .tech-logo:after{height:100px;top:15px}.main-portfolio h2.section-heading{text-align:center;margin:0 auto 15px;display:table}.main-portfolio ul.new-filter{text-align:center}.Our_team .section-header{margin-bottom:60px}.main-portfolio{padding:50px 0}.Team-profile{padding:40px 0}.Our_team{margin:40px 0}.second-sec-main{padding:60px 0}.specialities h2{margin:0 0 15px}.specialities p{font-size:16px;padding:0 0 30px}.second-sec-main .col-sm-3{width:33.333%;float:left}.second-sec-main .col-sm-3:nth-child(n+4){margin-top:30px}.second-sec-main .box{padding:20px 10px}.work-process-area .work-process{padding:30px 10px;min-height:auto}.form-group.col-md-6.right-1{padding-right:15px!important;padding-left:0}
+    .choose-us-main h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    section.bisiness-tech {
+        padding-top: 30px;
+    }
+    .bisiness-tech .section-spacing {
+        padding-bottom: 40px;
+    }
+}
+@media screen and (max-width:815px) {
+   .arpatech-logo img{display:none}.intro-text h1{font-size:30px}.for-start-btn .next-step,.for-start-btn .next-step2{margin-top:0}.main-head .arrow{width:24px;height:24px}
+}
+@media screen and (max-width:767px) {
+    
+   .estimation-grid-section .title h1{font-size:36px}.estimation-grid-section .title h3{font-size:24px;line-height:36px}.estimation-details-section .image images{width:100%}.estimation-details-section .details-block>div{height:auto!important;padding-left:15px;padding-right:15px}.estimation-details-section .image{padding-top:15px;padding-bottom:15px}.checkout-wrap ul{padding-left:0}ul.checkout-bar li{padding:14px 10px 14px 70px}.banner-text-web-2 h1{font-size:30px}.banner-text-web-2 h3{font-size:35px;margin-top:40px}.magento-services-main h2{font-size:35px}.services-short-section h2{font-size:23px}ul.left-side,ul.right-side{width:100%}.estimation-header .logo{padding-left:0;text-align:center}.estimate-app h1{font-size:38px}.estimate-app p{line-height:1.3;font-size:20px}#exTab1 .tab-content .tab-pane{padding:15px 20px}#exTab1 .tab-content h3{font-size:22px;margin:20px 0 30px}#exTab1 .nav-pills li{font-size:22px}.estimate-footer{text-align:center}.estimate-footer address{padding-top:10px;margin-bottom:0}.totalesti .total-cost{font-size:32px}.totalesti .total-hours{font-size:20px}.sendestimation h2{font-size:16px}#exTab1 .tab-content .row .col-border input[type=checkbox]:checked+label:before,#exTab1 .tab-content .row .col-border input[type=radio]:checked+label:before{right:50px}#exTab1 .tab-content .row .col-border{margin-bottom:20px}.overlay .overlay-content{max-width:100%}.header .intro-text{width:88%;padding:0;margin:0 auto;left:50%;transform:translate(-50%,-50%)}.intro-text h1{font-size:32px}.estimation-details-section .image:before{display:none}.navbar ul.my-nav-new{float:left!important;padding:10px 0 30px 0}.status-publish .woocommerce-MyAccount-navigation .navbar-collapse{overflow-x:hidden}.status-publish .woocommerce-MyAccount-navigation .navbar-toggle{margin:20px 0;float:left;background-color:#414141}.status-publish .woocommerce-MyAccount-navigation .navbar-toggle .icon-bar{background-color:#fff}.status-publish .woocommerce-MyAccount-navigation li{padding:0 10px}.status-publish .entry-title{margin-top:0}body.estimation-tool{padding-top:0}.estimation-header{position:relative}.estimation-header .navbar{min-height:inherit}.estimation-header .navbar-toggle{margin:0}.headerwrapper .pull-right{float:none!important}.headerwrapper .navbar-collapse{width:100%;margin-top:30px;float:left}body .navbar-custom .navbar-collapse{margin:0px auto 0;max-width:100%}.arpatech-logo{display:none}.equlHeight{height:auto!important}.intro-text h1{font-size:26px;line-height:32px;margin-bottom:0}.for-start-btn .next-step2{margin-top:0}.for-start-btn .next-step{margin-top:10px}.intro-text{padding-top:10px!important}.Testimonial_section .testimonial_content{max-height:450px!important}.specialities h2{font-size:35px;margin-top:0}.second-sec-main{padding:50px 0}.second-sec-main .specialities{padding:0}.certified h2{font-size:38px}.certified span{font-size:21px;letter-spacing:3px}.Team-profile .title-border:before{top:15px}.Team-profile h2{font-size:30px;margin:0 auto 35px;padding:0 15px}.Team-profile .Team-section .card{width:200px;height:250px}.bisiness-tech .section-spacing{padding:30px 20px 50px}.bisiness-tech .our-tech-advantages .our-tech-col{width:15%}.bisiness-tech .our-tech-advantages .our-tech-col:nth-child(n+7){margin-top:30px}.Our_team .section-title,.Team-profile h2,.main-portfolio h2,.specialities h2,section.bisiness-tech h3{font-size:25px}section.bisiness-tech h3 span{font-size:22px;letter-spacing:1px}.main-portfolio{padding:40px 0}.Team-profile{padding:30px 0}.Our_team .section{padding:40px 0}.second-sec-main{padding:40px 0}.second-sec-main .col-sm-3{width:50%;float:left; margin-top: 30px;}.second-sec-main .col-sm-3:nth-child(n+3){margin-top:30px}.container.about-us-page-inner h2{font-size:40px}.navbar-custom.affix .img-responsive{padding:0}.contact-address{margin:0 0 50px 0}.choose-us-main h2{font-size:26px}.choose-us-main h5{font-size:24px;letter-spacing:1px}.choose-box h3{font-size:22px}.choose-box p{letter-spacing:1px}.desktop-left h3,.desktop-left2 h3,.desktop-left3 h3{font-size:24px}.desktop-left,.desktop-left2,.desktop-left3{margin-top:40px}.about-main-bg h3{font-size:30px}.about-us-bg{padding:50px 0}.short-box-choose{padding:20px 0}.about-main-bg ul{margin-top:30px}.mobile-first-main h3,.mobile-first-main h5{font-size:24px}.mobile-first-main h5{letter-spacing:1px}.mobile-second-main{padding-top:40px;color:#fff}.mobile-second-main h3{font-size:26px;line-height:32px}.mobile-second-main h3 span{font-size:18px;line-height:normal}.fusion-fullwidth2,.fusion-fullwidth3{min-height:500px;padding-top:20px}.process-me{clear:both}.SocialCover h3,.process-me h3,.secourWork h3,.tabCover h3{font-size:28px}p.lets-make.text-center{letter-spacing:1px}.for-video-head .intro-text{padding-left:20px;padding-right:20px}.drupal-header .intro-text h1{line-height:normal;font-size:38px; margin-bottom: 30px;}.drupal-dev-main img{margin:0 auto 30px}.drupal-dev-main p.dev-text1{padding:0 20px}.creation-main h2,.wordpress-service h2,h2.wordpress-heading-dev{font-size:26px}h2.section-title{font-size:30px}.technology-list>span{min-height:170px;display:block}.technology-list>span .sprite{display:block}.main-clor{padding:40px 0 70px}.inner-choose{margin-top:30px;padding:0 15px}.main-head{padding:60px 0;display:flex;align-items:center}.arrow{display:none}
+   a.start-started.page-scroll{margin-bottom:30px}.value-section .container>div.center-block{display:none}.value-section .container>div.left-block,.value-section .container>div.right-block{max-width:50%}.job-content h2{font-size:28px}.job-content p{font-size:14px;line-height:24px}.join-our-team .row{display:block}.team-content{padding:15px 0 0 0}.team-content h3{font-size:24px;margin-bottom:14px}.team-content p{font-size:14px}.job-listing h2{font-size:34px}.job-desk{text-align:center}
+    .drupal-dev-main{ margin-top: 40px; }
+    .main-clor.main-clor-2 {
+    padding: 0 0;
+
+    }
+    .our_solution .full-content { min-height: 50px }
+    .right-block li, .left-block li, .left-block p { font-size: 16px; }
+    .intro-text h1 {
+    font-size: 26px;
+    line-height: 32px;
+    margin-bottom: 30px;
+}
+    .intro-text p, .drupal-header .intro-text p {
+        display: none;
+    }    
+    .fusion-fullwidth {
+        padding-top: 60px;
+         
+    padding-bottom: 50px;
+    overflow: hidden;
+    }   
+.section.secourWork {
+    margin-top: 0;
+}    
+    .choose-us-main h5, .choose-us-main h2 {
+        padding: 0 30px
+    }    
+    .desktop-base, .desktop-base2, .desktop-base3 {
+        padding: 50px 0;
+    }
+    .desktop-left2.bottom-line-tab {
+        padding-bottom: 20px;
+    }
+    .intro-text {
+        padding-bottom: 20px;
+    }
+.our_solution .sixteen.columns {
+    padding: 0 15px;
+}
+    .our_solution .sixteen.columns  .our_border {
+        border-right: 0;
+    }    
+    .need-ecommerce-left.wordpress-ecom-left, .container-fluid.wordpress-service {
+        margin-top: 0px;
+    } 
+.need-ecommerce-left.wordpress-ecom-left {
+    text-align: center;
+}
+.our_solution {
+    padding: 30px 0 30px;
+}    
+}
+@media screen and (max-width: 600px) {
+   #exTab1 .tab-content .row .col-border input[type="checkbox"]:checked + label:before, #exTab1 .tab-content .row .col-border input[type="radio"]:checked + label:before { right:13%; }
+  .footer1-wrapper .links.footer-about,.footer1-wrapper .links.footer-service{width:100%}.footer1-wrapper .links{width:100%;padding:0 30px;margin-bottom:30px}.intro-text img{max-width:120px}h2.section-title{font-size:26px}.value-section .container>div.left-block,.value-section .container>div.right-block{max-width:100%;  min-height: 10px;}.left-block .left-cont{text-align:left;padding-bottom:30px; min-height: 10px;}.value-section .right-block{padding-left:0}
+    .left-block .left-cont:first-child ul li, .left-block .left-cont:last-child ul li {
+    padding-right: 0;
+    padding-left: 20px;
+}
+    .left-block .left-cont:first-child ul li:before, .left-block .left-cont:last-child ul li:before{
+            content: "\f105";
+    }    
+ }
+@media screen and (max-width:479px) {
+ #exTab1 .tab-content .row .col-border input[type=checkbox]:checked+label:before,#exTab1 .tab-content .row .col-border input[type=radio]:checked+label:before{right:0}#exTab1 .tab-content h3{font-size:20px}.estimate-app h1{font-size:32px}.estimate-app p{font-size:18px}.estimate-app small{font-size:16px}#exTab1 .nav-pills li{font-size:20px}.Testimonial_section .testimonial_content{max-height:500px!important}.certified{padding:30px 0 10px}.certified h2{font-size:35px}.certified span{font-size:20px}.footer1-wrapper .footer1-legal-links{float:initial;margin:10px 0 20px}#footer1-wrapper{padding:50px 0 0 0}h2.contact-head{font-size:30px}section{padding:50px 0}.intro-text h1{font-size:23px;line-height:28px;  margin-bottom: 30px;}.specialities h2{font-size:28px}.certified h2{font-size:28px;line-height:25px}.certified span{font-size:19px;letter-spacing:2px}.main-portfolio{padding:50px 0}.main-portfolio h2{font-size:25px}h2.contact-head{font-size:27px}.Team-profile h2{font-size:25px;margin:0 0 30px}.Team-profile .Team-section .card{width:220px;height:270px}.Team-profile .Team-section .card:nth-child(n+2){margin-top:30px}.Team-profile .title-border:before{display:none}.Our_team .section-title,.Team-profile h2,.main-portfolio h2,.specialities h2,section.bisiness-tech h3{font-size:19px}.Our_team .section-header{margin-bottom:20px}.Our_team .section{padding:10px 0}.Our_team{margin:30px 0}.Team-profile{padding:20px 0}.Team-profile h2{margin:0 auto 25px}section.bisiness-tech h3 span{font-size:16px;letter-spacing:0}.main-portfolio{padding:30px 0}.main-portfolio ul.new-filter li button.filter{padding:5px 15px}.main-portfolio .filter-gallery .row{margin-right:-10px;margin-left:-10px}.main-portfolio .filter-gallery .col-sm-4{padding:15px 0;padding-left:10px;padding-right:10px}.bisiness-tech .our-tech-advantages .our-tech-col{width:25%}.bisiness-tech .our-tech-advantages .our-tech-col:nth-child(n+5){margin-top:25px}.second-sec-main{padding:40px 0}.second-sec-main .col-sm-3{width:100%;float:left}.second-sec-main .col-sm-3:nth-child(n+3){margin-top:20px}.intro-text h1 span{font-size:22px;letter-spacing:1px}
+}
+@media screen and (max-width: 360px) {
+   #exTab1 .tab-content .row .col-border input[type="checkbox"]:checked + label:before, #exTab1 .tab-content .row .col-border input[type="radio"]:checked + label:before { right:-10%; }
+ }

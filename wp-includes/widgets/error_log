@@ -1,0 +1,457 @@
+[04-Jun-2022 03:59:59 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[04-Oct-2022 11:39:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[04-Oct-2022 11:39:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[04-Oct-2022 11:40:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Oct-2022 11:40:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[04-Oct-2022 11:40:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[04-Oct-2022 11:41:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[04-Oct-2022 11:42:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[04-Oct-2022 11:42:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[04-Oct-2022 11:43:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[04-Oct-2022 11:43:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[04-Oct-2022 11:44:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[04-Oct-2022 11:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[04-Oct-2022 11:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[04-Oct-2022 11:45:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[04-Oct-2022 11:46:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[04-Oct-2022 11:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[04-Oct-2022 11:47:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[04-Oct-2022 11:47:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[04-Oct-2022 11:48:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[04-Oct-2022 11:48:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[04-Oct-2022 14:11:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Oct-2022 07:11:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Oct-2022 20:26:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Oct-2022 19:31:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Oct-2022 15:04:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Oct-2022 21:45:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Oct-2022 17:57:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Oct-2022 02:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Oct-2022 03:21:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Oct-2022 08:02:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Oct-2022 18:23:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Oct-2022 08:06:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Oct-2022 10:19:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Oct-2022 11:02:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Oct-2022 19:41:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Oct-2022 20:24:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Oct-2022 22:09:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Oct-2022 05:11:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Oct-2022 10:03:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Oct-2022 11:07:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Oct-2022 18:21:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Oct-2022 22:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Oct-2022 08:28:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Oct-2022 10:25:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Oct-2022 19:39:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Oct-2022 20:28:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Oct-2022 00:37:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Oct-2022 01:55:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Oct-2022 08:53:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Oct-2022 11:01:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Oct-2022 14:48:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Oct-2022 14:12:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Oct-2022 16:30:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Oct-2022 20:37:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2022 05:09:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2022 12:42:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2022 18:43:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Oct-2022 04:13:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Oct-2022 16:08:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Oct-2022 17:03:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Nov-2022 09:32:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Nov-2022 11:05:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Nov-2022 09:22:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Nov-2022 07:45:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Nov-2022 15:38:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Nov-2022 05:38:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Nov-2022 12:56:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Nov-2022 18:03:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Nov-2022 14:07:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Nov-2022 11:17:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Nov-2022 12:16:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Nov-2022 13:55:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Nov-2022 18:11:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Nov-2022 09:53:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Nov-2022 02:17:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Nov-2022 06:24:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Nov-2022 23:53:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 07:28:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Nov-2022 16:24:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Nov-2022 16:44:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Nov-2022 17:08:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Nov-2022 10:16:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Nov-2022 04:41:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Nov-2022 15:38:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Nov-2022 20:02:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2022 00:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Nov-2022 05:38:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Nov-2022 03:50:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Nov-2022 07:27:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Nov-2022 18:05:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Nov-2022 20:53:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Nov-2022 06:29:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Nov-2022 12:33:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Dec-2022 20:24:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[02-Dec-2022 06:37:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Dec-2022 08:16:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Dec-2022 10:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 23:18:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Dec-2022 15:06:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Dec-2022 06:36:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Dec-2022 09:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Dec-2022 08:32:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Dec-2022 09:10:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Dec-2022 18:58:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Dec-2022 08:59:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Dec-2022 04:32:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Dec-2022 13:16:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Dec-2022 18:02:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Dec-2022 02:31:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Dec-2022 22:05:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Dec-2022 07:11:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Dec-2022 18:40:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Dec-2022 05:14:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2022 23:46:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

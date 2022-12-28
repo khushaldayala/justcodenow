@@ -1,0 +1,4 @@
+[04-Oct-2022 09:34:24 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/justcodenow/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/SimplePie/Core.php on line 53

@@ -1,0 +1,12 @@
+[04-Oct-2022 11:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/justcodenow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[04-Oct-2022 11:20:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/justcodenow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[04-Oct-2022 11:21:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/justcodenow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

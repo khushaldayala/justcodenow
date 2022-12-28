@@ -1,0 +1,8 @@
+[04-Oct-2022 09:12:38 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/justcodenow/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[04-Oct-2022 11:58:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/justcodenow/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/Requests/Auth/Basic.php on line 18

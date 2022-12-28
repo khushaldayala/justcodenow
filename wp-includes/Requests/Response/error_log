@@ -1,0 +1,8 @@
+[04-Oct-2022 09:21:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/justcodenow/public_html/wp-includes/Requests/Response/Headers.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/Requests/Response/Headers.php on line 13
+[04-Oct-2022 12:23:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Utility_CaseInsensitiveDictionary' not found in /home/justcodenow/public_html/wp-includes/Requests/Response/Headers.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/Requests/Response/Headers.php on line 13

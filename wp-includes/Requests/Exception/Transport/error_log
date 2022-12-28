@@ -1,0 +1,4 @@
+[04-Oct-2022 12:20:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Requests_Exception_Transport' not found in /home/justcodenow/public_html/wp-includes/Requests/Exception/Transport/cURL.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

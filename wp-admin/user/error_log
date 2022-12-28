@@ -1,0 +1,18 @@
+[03-Jan-2022 19:19:33 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcod1/public_html/justcodenow.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php on line 2095
+[03-Jan-2022 19:19:33 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcod1/public_html/justcodenow.com/wp-includes/pluggable.php on line 1
+[04-Jan-2022 01:29:57 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcod1/public_html/justcodenow.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php on line 2095
+[04-Jan-2022 01:29:57 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcod1/public_html/justcodenow.com/wp-includes/pluggable.php on line 1
+[04-Jan-2022 15:41:03 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcod1/public_html/justcodenow.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php on line 2095
+[04-Jan-2022 15:41:03 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcod1/public_html/justcodenow.com/wp-includes/pluggable.php on line 1
+[07-Jan-2022 12:30:04 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 8192 bytes) in /home/justcod1/public_html/justcodenow.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php on line 1020
+[07-Jan-2022 12:30:04 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcod1/public_html/justcodenow.com/wp-includes/pluggable.php on line 1
+[14-Jan-2022 10:24:38 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcodenow/public_html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-coupon-data-store-cpt.php on line 673
+[14-Jan-2022 10:24:38 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcodenow/public_html/wp-includes/pluggable.php on line 1
+[15-Jan-2022 03:29:15 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcodenow/public_html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-coupon-data-store-cpt.php on line 673
+[15-Jan-2022 03:29:15 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcodenow/public_html/wp-includes/pluggable.php on line 1
+[15-Jan-2022 04:07:56 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcodenow/public_html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-coupon-data-store-cpt.php on line 673
+[15-Jan-2022 04:07:56 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home/justcodenow/public_html/wp-includes/pluggable.php on line 1
+[01-Dec-2022 20:21:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/justcodenow/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/justcodenow/public_html/wp-admin/user/menu.php on line 10
